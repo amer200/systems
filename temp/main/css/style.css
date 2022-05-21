@@ -1,0 +1,56 @@
+* {
+    font-family: 'Cairo', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+/* start nav bar */
+nav {
+    background-color: #041C32;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ECB365;
+    font-size: 1.1rem;
+}
+
+/* end nav bar */
+/*********************************************/
+/*********************************************/
+/*********************************************/
+/*             start main page               */
+
+/* start services */
+.servs {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.card-img,
+.card-img-bottom,
+.card-img-top {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* end services */
+/*             end main page               */
+/*             start register page               */
+/* start form */
+.form {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* end form */
+/*             form register page               */

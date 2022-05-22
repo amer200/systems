@@ -21,6 +21,14 @@ nav {
     font-size: 1.1rem;
 }
 
+.text-orange {
+    color: #ECB365 !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
 /* end nav bar */
 /*********************************************/
 /*********************************************/
@@ -54,3 +62,14 @@ nav {
 
 /* end form */
 /*             form register page               */
+/* start super market dashboard */
+.prod-box {
+    padding-top: 50px;
+}
+
+.prod-box a {
+    color: #000;
+    text-decoration: none;
+}
+
+/* end super market dashboard */
